@@ -1,2 +1,2 @@
 # Latihan22
-Latihan21 Program Perhitungan Lingkaran
+Latihan22 Program Perhitungan Lingkaran
